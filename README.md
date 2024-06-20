@@ -17,7 +17,9 @@ Este projeto é uma demonstração de como criar uma galeria de imagens com um d
 
 Confira uma prévia do layout da página:
 
-![Visualização da Galeria de Imagens](imagens/preview.jpg)
+![Visualização da Galeria de Imagens](imagens/gif.gif]()
+)
+)
 
 ## Como usar 🚀
 
